@@ -11,4 +11,4 @@
 
 Blinn-Phong模型
 
-![image-20230721231138779](Image\image-20230721231138779.png)
+![](Image\image-20230721231138779.png)
