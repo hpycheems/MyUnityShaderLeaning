@@ -12,3 +12,21 @@
 Blinn-Phong模型
 
 ![](Image/image-20230721231138779.png)
+
+## 纹理基础
+
+单章纹理
+
+![](Image/image-20230722201554190.png)
+
+凹凸纹理
+
+![](Image/image-20230722212833644.png)
+
+SpecularMask
+
+![](Image/image-20230722215502206.png)
+
+渐变纹理
+
+![](Image/image-20230722221211127.png)
