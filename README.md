@@ -30,3 +30,13 @@ SpecularMask
 渐变纹理
 
 ![](Image/image-20230722221211127.png)
+
+## 透明效果
+
+透明度测试
+
+![](Image/image-20230723214536660.png)
+
+混合
+
+![](Image/image-20230723220155299.png)
