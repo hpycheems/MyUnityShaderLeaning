@@ -40,3 +40,13 @@ SpecularMask
 混合
 
 ![](Image/image-20230723220155299.png)
+
+## 渲染路径
+
+前向渲染
+
+![image-20230725205826033](Image/image-20230725205826033.png)
+
+Shadow
+
+![image-20230725212756368](Image/image-20230725212756368.png)
