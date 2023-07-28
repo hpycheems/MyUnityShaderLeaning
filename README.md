@@ -45,8 +45,26 @@ SpecularMask
 
 前向渲染
 
-![image-20230725205826033](Image/image-20230725205826033.png)
+![](Image/image-20230725205826033.png)
 
 Shadow
 
-![image-20230725212756368](Image/image-20230725212756368.png)
+![](Image/image-20230725212756368.png)
+
+## 高级纹理
+
+反射
+
+![](Image/image-20230726205835871.png)
+
+折射
+
+![](Image/image-20230726213239026.png)
+
+菲涅尔反射
+
+![image-20230726215321086](Image/image-20230726215321086.png)
+
+玻璃效果
+
+![](Image/image-20230728204417729.png)
